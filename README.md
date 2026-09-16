@@ -1,15 +1,53 @@
 # INKBOUND
 
-A hand-drawn fantasy Roblox game about a tiny living ink creature inside a magical storybook.
+> a little ink creature in a world that shouldn't really exist.
 
-## About
+wanted to make something weird and cute, so i started making this.
 
-Inkbound explores a world where magical ink drawings can become part of the game itself.
+**Inkbound** is a roblox game about a tiny living ink creature exploring a magical storybook world.
 
-The project focuses on expressive visuals, simple interactions, and a distinctive hand-drawn aesthetic.
+explore, find creatures, collect them, build up your little world, and see what you run into.
 
-## Status
+that's the idea for now.
 
-Early development
+---
 
-More information will be added as the project develops.
+### the world
+
+everything is drawn.
+
+forests, ruins, weird little creatures, places that probably weren't supposed to be there.
+
+there's **Mosswood**, which is where things are a little more normal.
+
+then there's **VoidWastes**.
+
+it's less normal there.
+
+---
+
+### the creatures
+
+there are a bunch of little things running around the world.
+
+some are cute.
+
+some are strange.
+
+some probably shouldn't be alive.
+
+you can find them, capture them, collect them, and bring them back to your own little setup.
+
+---
+
+### status
+
+early development.
+
+still figuring a lot of it out.
+
+but it's getting there.
+
+---
+
+made with roblox studio.
