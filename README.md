@@ -20,7 +20,7 @@ forests, ruins, weird little creatures, places that probably weren't supposed to
 
 there's **Mosswood**, which is where things are a little more normal.
 
-then there's **VoidWastes**.
+then there's **Voidwastes**.
 
 it's less normal there.
 
