@@ -18,3 +18,7 @@ Desktop.ini
 .env
 .env.*
 !.env.example
+
+# Private development files
+.opencode/
+AGENTS.md
