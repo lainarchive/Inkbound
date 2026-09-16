@@ -2,11 +2,14 @@
 
 A hand-drawn fantasy Roblox game about a tiny living ink creature inside a magical storybook.
 
-The defining mechanic is magical ink drawing.
+## About
 
-Development is directed by the user.
+Inkbound explores a world where magical ink drawings can become part of the game itself.
 
-DeepSeek acts as Lead Developer / Architect.
-OpenCode acts as Junior Implementation Developer.
+The project focuses on expressive visuals, simple interactions, and a distinctive hand-drawn aesthetic.
 
-Splice is a completely separate project.
+## Status
+
+Early development
+
+More information will be added as the project develops.
