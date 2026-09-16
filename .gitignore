@@ -1,0 +1,20 @@
+# Roblox / Studio
+*.rbxl
+*.rbxlx
+*.rbxlx.lock
+
+# Luau / tooling
+.luau-cache/
+*.log
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Editor
+.vscode/
+
+# Secrets / environment
+.env
+.env.*
+!.env.example
