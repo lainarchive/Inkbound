@@ -1,0 +1,27 @@
+{
+  "name": "Inkbound",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "Inkbound": {
+        "$path": "src/ReplicatedStorage/Inkbound"
+      }
+    },
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "InkboundDrawing": {
+          "$path": "src/StarterPlayer/StarterPlayerScripts/InkboundDrawing.client.lua"
+        }
+      }
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "InkboundMosswood": {
+        "$path": "src/ServerScriptService/InkboundMosswood.server.lua"
+      }
+    }
+  }
+}
